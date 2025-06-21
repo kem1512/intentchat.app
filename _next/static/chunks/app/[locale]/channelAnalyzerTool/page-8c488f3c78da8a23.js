@@ -92,7 +92,7 @@
                                                 (0, n.jsx)(r.Z, { href: "/", children: (0, n.jsx)(f.default, { src: l, alt: "logo", width: 46, height: 39 }) }),
                                                 (0, n.jsx)("div", {
                                                     children: (0, n.jsx)("button", {
-                                                        onClick: () => window.open(m.fJ, "_blank"),
+                                                        // onClick: () => window.open(m.fJ, "_blank"),
                                                         className: "h-14 px-8 bg-[#6d45e3] text-white rounded-xl text-base font-semibold hover:bg-[#6d45e3]/90 transition-colors",
                                                         children: t("header.downloadIOS"),
                                                     }),
