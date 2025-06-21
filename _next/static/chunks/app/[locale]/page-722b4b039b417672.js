@@ -135,7 +135,7 @@
                                             }),
                                         ],
                                     }),
-                                    text: "Download on the",
+                                    text: "Coming soon to the",
                                     bText: "App Store",
                                 }),
                             ],
